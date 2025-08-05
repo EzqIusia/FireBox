@@ -22,4 +22,4 @@ Silakan mendownload plugin dibawah untuk dukungan proxy penuh
 
 
 Klik link dibawah ini untuk melihat beberapa aplikasi yang saya modifikasi
-[APP Extended](https://github.com/Ezqlusia/Extended)
+[APP Extended](https://github.com/EzqIusia/Extended)
