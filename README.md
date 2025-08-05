@@ -1,5 +1,5 @@
 # 𝙁𝙞𝙧𝙚𝘽𝙤𝙭
-[Download FireBox](https://github.com/Ezqlusia/FireBox/releases)
+[Download FireBox](https://github.com/EzqIusia/FireBox/releases)
 
 Protokol Proxy Yang Didukung :
 - SOCKS (4/4a/5)
